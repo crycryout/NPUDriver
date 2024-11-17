@@ -1,0 +1,20 @@
+!<thin>
+//                                              178       `
+ethosu_driver.o/
+ethosu_buffer.o/
+ethosu_device.o/
+ethosu_inference.o/
+ethosu_rpmsg.o/
+ethosu_network.o/
+ethosu_network_info.o/
+ethosu_capabilities.o/
+ethosu_cancel_inference.o/
+/0              0           0     0     644     60072     `
+/17             0           0     0     644     80672     `
+/34             0           0     0     644     60520     `
+/51             0           0     0     644     92288     `
+/71             0           0     0     644     68736     `
+/87             0           0     0     644     76400     `
+/105            0           0     0     644     37040     `
+/128            0           0     0     644     38840     `
+/151            0           0     0     644     36504     `

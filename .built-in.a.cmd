@@ -1,0 +1,1 @@
+savedcmd_drivers/staging/ethosu/built-in.a := rm -f drivers/staging/ethosu/built-in.a;  printf "drivers/staging/ethosu/%s " ethosu_driver.o ethosu_buffer.o ethosu_device.o ethosu_inference.o ethosu_rpmsg.o ethosu_network.o ethosu_network_info.o ethosu_capabilities.o ethosu_cancel_inference.o | xargs aarch64-linux-gnu-ar cDPrST drivers/staging/ethosu/built-in.a
